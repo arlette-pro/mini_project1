@@ -1,0 +1,58 @@
+
+code{background: #c9cfca;
+    display: block;
+text-align: center;
+color:rgb(136, 230, 13);
+    display: block;
+    padding: 24px 15px;
+}
+header,
+section,
+aside,
+nav,
+footer{
+    margin: 0 1.5% 24px 1.5%;
+    border: 6px red;
+}
+
+section{
+    width: 30%;
+   
+   float: left;  
+  
+   
+
+}
+.hero1{
+    height: 700px;
+    background: #e7ece8;
+    width: 30%;
+    
+}
+.hero2{
+    height: 700px;
+    background: #e7ece8;
+    width: 30%;
+}
+.hero3{
+    height: 700px;
+    background: #e7ece8;
+    width: 30%;
+    
+    
+}
+
+
+aside{
+    width: 30%;
+   
+    float: right;
+    background: #e7ece8;
+    
+}
+
+footer{
+    margin-bottom: 0;
+    clear: both;
+    
+}
